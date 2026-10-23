@@ -1,0 +1,26 @@
+{
+    "voices": {
+        "Bilbo": "bm_lewis",
+        "Gandalf": "bm_george",
+        "Thorin": "bm_fable"
+    },
+    "lines": {
+        "9": "Bilbo", "10": "Gandalf", "11": "Bilbo", "12": "Gandalf", "13": "Bilbo", "14": "Bilbo",
+        "15": "Gandalf", "16": "Bilbo", "17": "Gandalf", "18": "Bilbo", "19": "Gandalf", "20": "Bilbo",
+        "21": "Gandalf", "22": "Bilbo", "23": "Bilbo", "27": "Bilbo", "29": "Bilbo", "31": "Bilbo",
+        "32": "Bilbo", "34": "Bilbo", "35": "Bilbo", "37": "Bilbo", "39": "Bilbo", "40": "Bilbo",
+        "42": "Bilbo", "44": "Bilbo", "45": "Bilbo", "50": "Gandalf", "51": [null, "Thorin"],
+        "52": "Gandalf", "53": "Thorin", "58": "Gandalf", "59": "Bilbo", "60": "Bilbo", "62": "Bilbo",
+        "63": "Thorin", "64": "Bilbo", "80": "Thorin", "81": [null, "Thorin"], "126": "Thorin",
+        "127": "Bilbo", "129": "Bilbo", "130": "Gandalf", "131": "Thorin", "132": "Thorin",
+        "133": "Bilbo", "134": "Gandalf", "137": "Bilbo", "138": "Bilbo", "140": "Gandalf",
+        "141": "Gandalf", "143": "Gandalf", "144": "Thorin", "146": "Gandalf", "147": "Thorin",
+        "148": "Gandalf", "149": "Thorin", "150": "Gandalf", "151": "Bilbo", "152": "Gandalf",
+        "153": "Thorin", "154": "Gandalf", "155": "Thorin", "156": "Gandalf", "157": "Thorin",
+        "158": "Gandalf", "159": "Thorin", "160": "Bilbo", "161": "Thorin", "162": "Bilbo",
+        "163": "Thorin", "164": "Thorin", "165": "Thorin", "166": "Thorin", "167": "Gandalf",
+        "168": "Thorin", "169": "Gandalf", "170": "Thorin", "171": "Gandalf", "172": "Thorin",
+        "173": "Gandalf", "174": "Thorin", "175": "Gandalf", "176": "Thorin", "177": "Gandalf",
+        "178": "Bilbo", "179": [null, "Bilbo"], "181": "Bilbo", "182": "Thorin"
+    }
+}

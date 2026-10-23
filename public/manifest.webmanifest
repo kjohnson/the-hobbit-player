@@ -1,0 +1,15 @@
+{
+    "name": "The Hobbit",
+    "short_name": "The Hobbit",
+    "description": "Listen to The Hobbit by J.R.R. Tolkien.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#10160d",
+    "theme_color": "#10160d",
+    "icons": [
+        { "src": "/images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+        { "src": "/images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+    ]
+}
