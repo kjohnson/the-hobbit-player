@@ -188,6 +188,13 @@ return [
                     'epub' => 'text/part0024.html',
                     'duration' => 972.58,
                 ],
+                [
+                    'title' => 'An Unexpected Party (Full Cast)',
+                    'file' => 'chapter-01-an-unexpected-party-full-cast.mp3',
+                    'epub' => 'text/part0006.html',
+                    'duration' => 3381.48,
+                    'numbered' => false,
+                ],
             ],
         ],
     ],
